@@ -1,0 +1,20 @@
+Beans{
+  mercyblitz-user=User{
+  id=1,
+  name=
+  '小马哥',
+  city=null,
+  workCities=null,
+  lifeCities=null,
+  configFileLocation=null,
+  company=null,
+  context=null,
+  contextAsText=
+  'null',
+  beanName=
+  'mercyblitz-user'
+},
+  org.geekbang.thinking.in.spring.ioc.overview.domain.User#0=User{id=1, name='小马哥', city=null, workCities=null, lifeCities=null, configFileLocation=null, company=null, context=null, contextAsText='null', beanName='org.geekbang.thinking.in.spring.ioc.overview.domain.User#0'},
+  user=User{id=1, name='小马哥', city=null, workCities=null, lifeCities=null, configFileLocation=null, company=null, context=null, contextAsText='null', beanName='user'
+  }
+}

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="annotation" />
+        <module name="data-binding" />
+        <module name="dependency-injection" />
+        <module name="resource" />
+        <module name="dependency-lookup" />
+        <module name="aop-features" />
+        <module name="questions" />
+        <module name="application-context-lifecycle" />
+        <module name="generic" />
+        <module name="i18n" />
+        <module name="configuration-metadata" />
+        <module name="environment" />
+        <module name="dependency-source" />
+        <module name="spring-bean" />
+        <module name="event" />
+        <module name="bean-lifecycle" />
+        <module name="validation" />
+        <module name="ioc-container-overview" />
+        <module name="bean-scope" />
+        <module name="conversion" />
+        <module name="aop-overview" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="annotation" target="1.8" />
+      <module name="aop-features" target="1.8" />
+      <module name="aop-overview" target="1.8" />
+      <module name="application-context-lifecycle" target="1.8" />
+      <module name="bean-lifecycle" target="1.8" />
+      <module name="bean-scope" target="1.8" />
+      <module name="configuration-metadata" target="1.8" />
+      <module name="conversion" target="1.8" />
+      <module name="data-binding" target="1.8" />
+      <module name="dependency-injection" target="1.8" />
+      <module name="dependency-lookup" target="1.8" />
+      <module name="dependency-source" target="1.8" />
+      <module name="environment" target="1.8" />
+      <module name="event" target="1.8" />
+      <module name="generic" target="1.8" />
+      <module name="i18n" target="1.8" />
+      <module name="ioc-container-overview" target="1.8" />
+      <module name="questions" target="1.8" />
+      <module name="resource" target="1.8" />
+      <module name="spring-bean" target="1.8" />
+      <module name="thinking-in-spring" target="1.8" />
+      <module name="validation" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

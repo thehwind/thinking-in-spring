@@ -1,0 +1,9 @@
+<beans>
+    <import resource="services.xml"/>
+    <import resource="resources/messageSource.xml"/>
+    <import resource="/resources/themeSource.xml"/>
+    <bean id="bean1"
+          class="org.springframework.samples.jpetstore.dao.jpa.JpaItemDao">
+        <!--添加bean的相关配置-->
+    </bean>
+</beans>
